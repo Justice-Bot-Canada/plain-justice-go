@@ -49,6 +49,9 @@ const TriageSection = () => {
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Tell us your situation in plain language. We'll map it to the right venue and guide you through the process.
           </p>
+          <blockquote className="border-l-4 border-primary pl-4 italic text-muted-foreground text-sm mt-6 max-w-2xl mx-auto">
+            "Everyone has the right to a fair and public hearing by an independent and impartial tribunal." — Charter of Rights and Freedoms
+          </blockquote>
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">

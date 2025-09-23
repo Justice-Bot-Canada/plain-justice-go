@@ -18,6 +18,9 @@ const HeroSection = () => {
                 Describe your legal situation in plain language and get smart guidance, 
                 auto-filled forms, and step-by-step help navigating Ontario's courts and tribunals.
               </p>
+              <blockquote className="border-l-4 border-primary pl-4 italic text-muted-foreground text-sm mt-4">
+                "Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice." — Charter of Rights and Freedoms, Section 7
+              </blockquote>
             </div>
 
             <div className="space-y-3">

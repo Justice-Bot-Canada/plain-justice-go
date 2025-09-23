@@ -6,7 +6,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
             <div className="flex items-center justify-center w-10 h-10 bg-primary rounded-lg">
-              
+              <Scale className="w-6 h-6 text-primary-foreground" />
             </div>
             <div>
               <h1 className="text-xl font-bold text-foreground">Justice-Bot</h1>

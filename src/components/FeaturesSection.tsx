@@ -68,6 +68,9 @@ const FeaturesSection = () => {
             From initial assessment to final submission, Justice-Bot guides you through every step 
             with tools designed to simplify complex legal processes.
           </p>
+          <blockquote className="border-l-4 border-primary pl-4 italic text-muted-foreground text-sm mt-6 max-w-2xl mx-auto">
+            "Everyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances." — Charter Section 24(1)
+          </blockquote>
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">

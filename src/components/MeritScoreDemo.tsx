@@ -69,6 +69,9 @@ const MeritScoreDemo = () => {
             Get an honest assessment of your case based on facts, law, and precedent. 
             No false hope, just reality-based guidance.
           </p>
+          <blockquote className="border-l-4 border-primary pl-4 italic text-muted-foreground text-sm mt-6 max-w-2xl mx-auto">
+            "Any person charged with an offence has the right to be presumed innocent until proven guilty according to law in a fair and public hearing." — Charter Section 11(d)
+          </blockquote>
         </div>
 
         <div className="grid lg:grid-cols-3 gap-8">
