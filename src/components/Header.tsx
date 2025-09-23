@@ -1,14 +1,12 @@
 import { Scale, Menu } from "lucide-react";
 import { Button } from "@/components/ui/button";
-
 const Header = () => {
-  return (
-    <header className="bg-background border-b border-border sticky top-0 z-50">
+  return <header className="bg-background border-b border-border sticky top-0 z-50">
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
             <div className="flex items-center justify-center w-10 h-10 bg-primary rounded-lg">
-              <Scale className="w-6 h-6 text-primary-foreground" />
+              
             </div>
             <div>
               <h1 className="text-xl font-bold text-foreground">Justice-Bot</h1>
@@ -36,8 +34,6 @@ const Header = () => {
           </div>
         </div>
       </div>
-    </header>
-  );
+    </header>;
 };
-
 export default Header;
