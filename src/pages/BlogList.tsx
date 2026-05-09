@@ -8,12 +8,12 @@ import { Calendar, ArrowRight } from "lucide-react";
 const blogPosts = [
   {
     slug: "ontario-small-claims-court-2025",
-    title: "Ontario Small Claims Court Guide (2025 Update)",
-    description: "Plain-language steps for filing, settlement, trial, and enforcement — updated for 2025 changes.",
-    date: "November 2025",
-    category: "Legal Help & Self-Representation",
-    image: "https://images.unsplash.com/photo-1555375771-14b2a63968a6",
-    readTime: "8 min read"
+    title: "Complete Guide to Small Claims Court Ontario 2025",
+    description: "Plain-language steps for Ontario Small Claims Court, including the 2025 $50,000 limit, forms, filing, service, settlement, trial, enforcement, and examples.",
+    date: "Updated May 2026",
+    category: "Legal Information for Self-Represented Litigants",
+    image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f",
+    readTime: "13 min read"
   }
 ];
 
